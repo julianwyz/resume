@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+rm -f resume.html
+rm -f resume.pdf
+python3 resume.py
