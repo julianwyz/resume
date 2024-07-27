@@ -1,8 +1,8 @@
 # Julian Wyzykowski 
 
-- <julian.wyzykowski@me.com>
+- <me@jw.codes>
 - (207) 415-5252
-- [julianlikes.coffee](https://julianlikes.coffee)
+- [jw.codes](https://jw.codes)
 - Auburn, Maine
 
 Senior full-stack software engineer with experience in a wide breadth of technologies.
@@ -11,17 +11,22 @@ He thrives in a fast-paced, challenging, and creative environment and has extens
 
 ## Experience
 
-### <span>Senior software engineer, Defendify Cybersecurity</span> <span>July 2020 -- Present</span>
+### <span>Senior software engineer, Defendify.com</span> <span>July 2020 -- Present</span>
 
-- Single-handedly designed and built a standalone system to programmatically create user reports in flexible document formats including PDF and DOCX using LibreOffice, Node.js, Redis and AWS S3.
-- Lead a team of internal and contract engineers to design and develop a standalone API service.
+- Designed and implemented a document generation system to produce more than 1000 monthly customer reports using Go and NATS for scalable task management and fault tolerance.
+- Led numerous efforts to modernize and mature the product's tech stack. This includes leading a transition from a singularly JavaScript stack to a Go one.
+- Simplified microservice inter-connectivity with the use of a NATS messaging backplane.
+- Built an automated website vulnerability scanner conformant with OWASP standards.
+- Developed a Learning Management System from the ground up with client interface and API used by over 5000 customers every month.
+- Provisioned a dedicated SMTP service to send mock Phishing emails to several thousand customers each month.
 - Built brand new client web app using Vue including numerous backend system upgrades to support new frontend experiences.
 - Worked to ensure security best-practices including minimizing threat surface, data-leakage and DDoS attacks. All production systems are subjected to professional ethical hacking and penetration tests.
-- Designed data structures for the production PostgreSQL database.
-- Implemented new, and updated existing, API endpoints and core libraries in Node.js.
-- Deployed an automated production email newsletter system to replace manual administrative tasks.
+- Architected data structures for both greenfield and existing production PostgreSQL databases.
+- Developed numerous internal utility libraries to increase technical leverage and team efficiency.
 - Participated in regular peer code reviews and sprint planning and estimation.
-- Migrated services and projects to be Docker compatible for scaling and increased ease of development.
+- Mentored junior engineers on best practices.
+- Involved in regular product strategy meetings with product owners and other stakeholders.
+- Conducted technical interviews of senior engineer candidates.
 
 
 ### <span>Full-stack engineer, Likeable Local</span> <span>November 2016 -- March 2020</span>
@@ -42,21 +47,11 @@ He thrives in a fast-paced, challenging, and creative environment and has extens
 - Oversee mission-critical production database migrations with minimal service interruptions.
 - Implement new features and maintain quality performance and UX in the native app using Objective-C.
 
-### <span>Software engineer intern, Likeable Local</span> <span>October 2014 -- January 2015</span>
-
-- Designed and implemented a native mobile app from the ground up.
-- Developed REST API backend in Node.js to interface with existing architecture to support the mobile app.
-
-### <span>Software engineer intern, Unum Insurance</span> <span>July 2014 -- August 2014</span>
-
-- Worked in the Technology Transformation group on projects that ranged from .NET programs to iOS apps.
-- Worked across teams to evaluate and modernize tools and processes.
-
-
 ## Skills
 
  - Web development: HTML, Sass/CSS, JavaScript, Vue, React
- - API development: Node.js + Express, Python + Django, Redis
- - Database: PostgreSQL, MySQL/MariaDB, MongoDB
- - DevOps: AWS, Docker/containerization, Heroku, CI/CD
+ - API development: Go, Node.js + Express, Python + Django
+ - Database: PostgreSQL, MySQL/MariaDB, MongoDB, Redis
+ - Messaging: NATS, SQS, Kafka
+ - DevOps: AWS, Docker, Render, Heroku, CI/CD
  - Methodology: Agile, Scrum, Github Flow
