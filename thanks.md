@@ -1,1 +1,1 @@
-Shout out to [mikepqr](https://github.com/mikepqr/resume.md) for this awesome template! 
+Shout out to [blackfly19](https://github.com/blackfly19/easypdf) for the great Markdown to PDF conversion tool!
