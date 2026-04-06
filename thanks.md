@@ -1,1 +1,0 @@
-Shout out to [blackfly19](https://github.com/blackfly19/easypdf) for the great Markdown to PDF conversion tool!

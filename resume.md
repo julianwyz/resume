@@ -1,70 +1,87 @@
-# Julian Wyzykowski 
+# Julian Wyzykowski
 
-- <me@jw.codes>
-- (207) 415-5252
-- [jw.codes](https://jw.codes)
-- Auburn, Maine
+<ul class="contact-row">
+<li>me@jw.codes</li>
+<li>(207) 415-5252</li>
+<li>Auburn, Maine</li>
+</ul>
 
-Staff-level full-stack engineer with 10+ years of professional experience building and scaling products in fast-moving startup environments. Deep expertise in backend systems, distributed architecture, and developer tooling, with a strong track record of shipping high-impact features end-to-end. Equally comfortable driving engineering standards, mentoring teams, and contributing at the code level. Passionate about clean systems design, observability, and building engineering cultures that move fast without breaking things.
+<ul class="contact-row">
+<li><a href="https://jw.codes">jw.codes</a></li>
+<li><a href="https://www.linkedin.com/in/julianwyzykowski/">linkedin.com/in/julianwyzykowski</a></li>
+<li><a href="https://github.com/julianwyz">github.com/julianwyz</a></li>
+</ul>
+
+---
+
+Full-stack engineer with 11 years of professional experience in startups, with a focus on Go, distributed systems, and backend infrastructure. Grew from intern to staff-level engineer, taking on architecture, security compliance, and team leadership while staying hands-on with day-to-day development. I build systems that are maintainable, observable, and built to last.
 
 ## Experience
 
-### <span>Staff Engineer, Defendify.com</span> <span>May 2021 -- April 2026</span>
+### <span>Staff Engineer - Technical Lead, Defendify</span> <span>April 2026 -- Present</span>
 
-Drove engineering strategy, org-level standards, and cross-functional alignment in a fast-moving cybersecurity startup.
+Led engineering strategy and org-level standards at a cybersecurity startup.
 
-- Modernized the product's tech stack, leading a transition from a primarily JavaScript codebase to one based in Go.
-- Instituted policies for engineering best-practices to achieve SOC 2 compliance certification.
-- Established observability standards across the engineering team, defining practices for distributed tracing, structured logging, and metrics collection.
-- Served as a mentor for mid-level and junior engineers through one-on-ones and code reviews.
-- Conducted technical interviews of senior engineer candidates.
-- Involved in strategic management meetings with senior product stakeholders.
-- Developed numerous internal utility libraries to increase technical leverage and team efficiency.
+- Drove the transition from a JavaScript-majority codebase to Go, reducing operational overhead and improving performance across services.
+- Instituted engineering best-practice policies that resulted in SOC 2 compliance certification.
+- Established observability standards across the team: distributed tracing, structured logging, and metrics collection via OpenTelemetry.
+- Mentored mid-level and junior engineers through regular one-on-ones and code reviews.
+- Conducted technical interviews for senior engineering candidates.
+- Contributed engineering input to executive product planning sessions, bridging technical constraints with business priorities.
+- Built internal utility libraries used across multiple services to reduce duplicated effort and enforce consistent patterns.
 
-### <span>Senior Software Engineer, Defendify.com</span> <span>May 2021 -- April 2026</span>
+### <span>Senior Software Engineer, Defendify</span> <span>May 2021 -- April 2026</span>
 
-Owned complex, high-impact technical work across backend systems, infrastructure, and security tooling.
+Owned backend systems, infrastructure, and security tooling at a cybersecurity SaaS company serving thousands of SMB customers.
 
-- Designed and built a scalable document generation system using Go and NATS, producing thousands of customer reports monthly with fault-tolerant task orchestration.
-- Simplified microservice inter-connectivity with the use of a NATS messaging backplane.
-- Created an OWASP-compliant vulnerability scanner for automated website assessments.
-- Architected data structures for both greenfield and existing production PostgreSQL databases.
-- Worked to ensure security best-practices including minimizing threat surface, data-leakage and DDoS attacks. All production systems are subjected to professional penetration tests.
+- Designed and built a document generation system in Go and NATS that produces 1,000+ customer reports monthly with fault-tolerant task orchestration.
+- Built an OWASP-compliant vulnerability scanner for automated website security assessments.
 - Instrumented distributed services with OpenTelemetry for end-to-end tracing, metrics, and structured logging across the production stack.
-- Leveraged generative AI to improve vulnerability definition and remediation information to aid customer understanding.
+- Replaced ad-hoc service communication with a NATS messaging backplane, simplifying inter-service connectivity across the microservice architecture.
+- Architected PostgreSQL schemas for multiple greenfield and existing production systems.
+- Applied generative AI to enrich vulnerability definitions and remediation guidance, improving the clarity of customer-facing security reports.
+- Maintained security across all production systems: minimized attack surface, hardened against data-leakage and DDoS vectors, and coordinated annual professional penetration tests.
 
-### <span>Full-stack Engineer, Defendify.com</span> <span>July 2020 -- May 2021</span>
+### <span>Full-stack Engineer, Defendify</span> <span>July 2020 -- May 2021</span>
 
-Delivered customer-facing features end-to-end across frontend, backend, and infrastructure.
+Built customer-facing products end-to-end across frontend, backend, and infrastructure.
 
-- Developed a Learning Management System from the ground up with client interface and API used by over 10,000 customers every month.
-- Built a new client-facing web app with Vue and implemented supporting backend features to enable a modern UX.
-- Provisioned a dedicated SMTP service to send simulated phishing emails to several thousand customers each month.
+- Built a Learning Management System from scratch, including client UI and API, serving over 10,000 customers monthly.
+- Delivered a new Vue-based web app and the backend features needed to support it, replacing a legacy frontend.
+- Provisioned a dedicated SMTP service for simulated phishing campaigns, sending to thousands of customers each month.
 
-### <span>Full-stack engineer, Likeable Local</span> <span>January 2015 -- March 2020</span>
+### <span>Full-stack Engineer, Likeable Local</span> <span>January 2015 -- March 2020</span>
 
-Hired at 15 as an intern and promoted to senior engineer over a five-year period, eventually becoming the most senior member of the engineering team. Collaborated directly with CTO and product stakeholders to rebuild the platform and support product growth.
+Joined at 15 as an intern and grew into the most senior engineer on the team over five years. Worked directly with the CTO to rebuild the core platform and scale the product.
 
-- Designed and implemented REST APIs using Node.js.
-- Integrated with numerous third-party APIs.
-- Created a single-page-application from the ground up using React and Redux.
-- Oversaw critical production database migrations with zero downtime.
-- Architected PostgreSQL database schema for production systems.
-- Established CI pipelines, testing frameworks, and code quality standards across frontend and backend codebases.
+- Built and maintained REST APIs in Node.js powering the main product used by tens of thousands of social media marketing customers.
+- Integrated with third-party platforms including Facebook, Twitter, Google, and Yelp to sync customer data and automate publishing workflows.
+- Rebuilt the frontend as a React/Redux single-page application, replacing a server-rendered legacy UI.
+- Oversaw production database migrations with zero downtime as the platform scaled.
+- Designed PostgreSQL schemas for core product features including scheduling, analytics, and user management.
+- Set up CI pipelines, testing frameworks, and code quality standards that the team continued using after I left.
 
 ## Skills
 
-- Languages & Frameworks: Go, Node.js, Python, Django, JavaScript, Vue, React, HTML, CSS/Sass
-- Databases & Storage: PostgreSQL, MySQL, MongoDB, Redis
-- Infrastructure & DevOps: AWS, Docker, Terraform, Heroku, Render, CI/CD
-- Messaging & Distributed Systems: NATS, Kafka, SQS, Microservices
-- Observability: OpenTelemetry, Distributed Tracing, Structured Logging, Metrics
-- Security & Compliance: OWASP, SOC 2, Penetration Testing
-- AI: OpenAI, Vector Embeddings, Agents
-- Scripting & Systems: Bash, Objective-C, HCL
-- Leadership: Technical Mentorship, Engineering Standards, Code Review, Technical Interviewing
-- Tools & Methodologies: Agile, GitHub Flow, Unix Philosophy, Scrum
+<table class="skills-table"><tbody><tr>
+<td><ul class="skills-col">
+<li><strong>Languages &amp; Frameworks:</strong> Go, Node.js, Python, Django, JavaScript, Vue, React, HTML, CSS/Sass</li>
+<li><strong>Databases &amp; Storage:</strong> PostgreSQL, MySQL, MongoDB, Redis</li>
+<li><strong>Infrastructure &amp; DevOps:</strong> AWS, Docker, Terraform, Heroku, Render, CI/CD</li>
+<li><strong>Messaging &amp; Distributed Systems:</strong> NATS, Kafka, SQS, Microservices</li>
+<li><strong>Observability:</strong> OpenTelemetry, Distributed Tracing, Structured Logging, Metrics</li>
+</ul></td>
+<td><ul class="skills-col">
+<li><strong>Security &amp; Compliance:</strong> OWASP, SOC 2, Penetration Testing</li>
+<li><strong>AI:</strong> OpenAI, Vector Embeddings, Agents</li>
+<li><strong>Scripting &amp; Systems:</strong> Bash, Objective-C, HCL</li>
+<li><strong>Leadership:</strong> Technical Mentorship, Engineering Standards, Code Review, Technical Interviewing</li>
+<li><strong>Tools &amp; Methodologies:</strong> Agile, GitHub Flow, Unix Philosophy, Scrum</li>
+</ul></td>
+</tr></tbody></table>
 
 ## Education
 
-Self-taught software engineer with 10+ years of professional experience, beginning at age 15. Built a comprehensive foundation through hands-on work across the full development lifecycle — from greenfield product development to production systems at scale. Continuously expanded expertise through applied engineering, independent study, and deep investment in emerging technologies including AI and distributed systems.
+Self-taught | Professional software engineer since 2015
+
+11 years of hands-on experience across the full stack, from greenfield product development to production systems at scale. Expanded expertise continuously through applied engineering and independent study, with recent focus on distributed systems, observability, and AI integration.
