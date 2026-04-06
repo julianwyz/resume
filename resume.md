@@ -5,30 +5,41 @@
 - [jw.codes](https://jw.codes)
 - Auburn, Maine
 
-Full-stack engineer with over a decade of experience in fast-paced startup environments. Experienced across the stack, with a focus on building scalable backend systems, intuitive frontend interfaces, and reliable infrastructure. Passionate about mentoring, technical leadership, and continuous learning.
+Staff-level full-stack engineer with 10+ years of professional experience building and scaling products in fast-moving startup environments. Deep expertise in backend systems, distributed architecture, and developer tooling, with a strong track record of shipping high-impact features end-to-end. Equally comfortable driving engineering standards, mentoring teams, and contributing at the code level. Passionate about clean systems design, observability, and building engineering cultures that move fast without breaking things.
 
 ## Experience
 
-### <span>Senior software engineer, Defendify.com</span> <span>July 2020 -- Present</span>
+### <span>Staff Engineer, Defendify.com</span> <span>May 2021 -- April 2026</span>
 
-Lead engineer in a small, cross-functional team. Contributed across the stack, from greenfield features to infrastructure modernization. Played a key role in mentoring engineers, guiding architectural decisions, and supporting SOC 2 compliance efforts.
+Drove engineering strategy, org-level standards, and cross-functional alignment in a fast-moving cybersecurity startup.
 
-- Designed and built a scalable document generation system using Go and NATS, producing 1,000+ customer reports monthly with fault-tolerant task orchestration.
-- Leveraged generative AI to improve vulnerability definition and remediation information to aid customer understanding.
+- Modernized the product's tech stack, leading a transition from a primarily JavaScript codebase to one based in Go.
 - Instituted policies for engineering best-practices to achieve SOC 2 compliance certification.
-- Modernized the product's tech stack, including leading a transition from a primarily JavaScript codebase to one based in Go.
-- Served as a mentor for mid-level and junior engineers through one-on-ones and code reviews. 
-- Simplified microservice inter-connectivity with the use of a NATS messaging backplane.
-- Involved in strategic management meetings with senior product stakeholders.
-- Created an OWASP-compliant vulnerability scanner for automated website assessments.
+- Established observability standards across the engineering team, defining practices for distributed tracing, structured logging, and metrics collection.
+- Served as a mentor for mid-level and junior engineers through one-on-ones and code reviews.
 - Conducted technical interviews of senior engineer candidates.
-- Developed a Learning Management System from the ground up with client interface and API used by over 10,000 customers every month.
-- Provisioned a dedicated SMTP service to send simulated phishing emails to several thousand customers each month.
-- Built a new client-facing web app with Vue and implemented supporting backend features to enable a modern UX.
-- Worked to ensure security best-practices including minimizing threat surface, data-leakage and DDoS attacks. All production systems are subjected to professional penetration tests.
-- Architected data structures for both greenfield and existing production PostgreSQL databases.
+- Involved in strategic management meetings with senior product stakeholders.
 - Developed numerous internal utility libraries to increase technical leverage and team efficiency.
 
+### <span>Senior Software Engineer, Defendify.com</span> <span>May 2021 -- April 2026</span>
+
+Owned complex, high-impact technical work across backend systems, infrastructure, and security tooling.
+
+- Designed and built a scalable document generation system using Go and NATS, producing thousands of customer reports monthly with fault-tolerant task orchestration.
+- Simplified microservice inter-connectivity with the use of a NATS messaging backplane.
+- Created an OWASP-compliant vulnerability scanner for automated website assessments.
+- Architected data structures for both greenfield and existing production PostgreSQL databases.
+- Worked to ensure security best-practices including minimizing threat surface, data-leakage and DDoS attacks. All production systems are subjected to professional penetration tests.
+- Instrumented distributed services with OpenTelemetry for end-to-end tracing, metrics, and structured logging across the production stack.
+- Leveraged generative AI to improve vulnerability definition and remediation information to aid customer understanding.
+
+### <span>Full-stack Engineer, Defendify.com</span> <span>July 2020 -- May 2021</span>
+
+Delivered customer-facing features end-to-end across frontend, backend, and infrastructure.
+
+- Developed a Learning Management System from the ground up with client interface and API used by over 10,000 customers every month.
+- Built a new client-facing web app with Vue and implemented supporting backend features to enable a modern UX.
+- Provisioned a dedicated SMTP service to send simulated phishing emails to several thousand customers each month.
 
 ### <span>Full-stack engineer, Likeable Local</span> <span>January 2015 -- March 2020</span>
 
@@ -46,11 +57,14 @@ Hired at 15 as an intern and promoted to senior engineer over a five-year period
 - Languages & Frameworks: Go, Node.js, Python, Django, JavaScript, Vue, React, HTML, CSS/Sass
 - Databases & Storage: PostgreSQL, MySQL, MongoDB, Redis
 - Infrastructure & DevOps: AWS, Docker, Terraform, Heroku, Render, CI/CD
-- Messaging Systems: NATS, Kafka, SQS
-- Tools & Methodologies: Agile, GitHub Flow, Unix Philosophy, Scrum
-- Scripting & Systems: Bash, Objective-C, HCL
+- Messaging & Distributed Systems: NATS, Kafka, SQS, Microservices
+- Observability: OpenTelemetry, Distributed Tracing, Structured Logging, Metrics
+- Security & Compliance: OWASP, SOC 2, Penetration Testing
 - AI: OpenAI, Vector Embeddings, Agents
+- Scripting & Systems: Bash, Objective-C, HCL
+- Leadership: Technical Mentorship, Engineering Standards, Code Review, Technical Interviewing
+- Tools & Methodologies: Agile, GitHub Flow, Unix Philosophy, Scrum
 
 ## Education
 
-Self-taught engineer with 10+ years of experience, starting professionally at age 15.
+Self-taught software engineer with 10+ years of professional experience, beginning at age 15. Built a comprehensive foundation through hands-on work across the full development lifecycle — from greenfield product development to production systems at scale. Continuously expanded expertise through applied engineering, independent study, and deep investment in emerging technologies including AI and distributed systems.
