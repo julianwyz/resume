@@ -1,4 +1,7 @@
-default: build
+.DEFAULT_GOAL := build
 
-build:
-	go tool easypdf convert -f resume.md --css resume.css -o resume.pdf
+build: resume.html
+	wkhtmltopdf --enable-local-file-access --print-media-type resume.html resume.pdf
+
+resume.html: resume.md resume.css build.go
+	go run build.go
