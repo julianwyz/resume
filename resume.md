@@ -50,9 +50,9 @@ Built customer-facing products end-to-end across frontend, backend, and infrastr
 - Delivered a new Vue-based web app and the backend features needed to support it, replacing a legacy frontend.
 - Provisioned a dedicated SMTP service for simulated phishing campaigns, sending to thousands of customers each month.
 
-### <span>Full-stack Engineer, Likeable Local</span> <span>January 2015 -- March 2020</span>
+### <span>Full-stack Engineer, Likeable Local</span> <span>November 2016 -- March 2020</span>
 
-Joined at 15 as an intern and grew into the most senior engineer on the team over five years. Worked directly with the CTO to rebuild the core platform and scale the product.
+Promoted from mobile to full-stack as the team shifted focus to the web platform. Worked directly with the CTO to rebuild the core product and grew into the most senior engineer on the team.
 
 - Built and maintained REST APIs in Node.js powering the main product used by tens of thousands of social media marketing customers.
 - Integrated with third-party platforms including Facebook, Twitter, Google, and Yelp to sync customer data and automate publishing workflows.
@@ -60,6 +60,14 @@ Joined at 15 as an intern and grew into the most senior engineer on the team ove
 - Oversaw production database migrations with zero downtime as the platform scaled.
 - Designed PostgreSQL schemas for core product features including scheduling, analytics, and user management.
 - Set up CI pipelines, testing frameworks, and code quality standards that the team continued using after I left.
+
+### <span>Mobile Software Engineer, Likeable Local</span> <span>October 2014 -- November 2016</span>
+
+Joined at 15 as an intern. First professional engineering role, building and maintaining the company's iOS application.
+
+- Developed and maintained the iOS client in Objective-C, shipping features for social media scheduling, content publishing, and multi-account management.
+- Built and consumed REST APIs to support mobile-specific product flows.
+- Collaborated directly with the product team to iterate on the mobile UX.
 
 ## Skills
 
